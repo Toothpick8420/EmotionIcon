@@ -3,4 +3,3 @@ kekw:../images/kekw.png
 pepe:../images/pepe.png
 pepehands:../images/pepehands.png
 omegalul:../images/omegalul.png
-
